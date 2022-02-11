@@ -1,7 +1,7 @@
 # 💰 Bankist
 
 <div align="center">
-    <img alt="Bankist logo" src="img/Logo.png" height="80" />
+    <img alt="Bankist logo" src="img/logo.png" height="80" />
 </div>
 
 <p align="center">Mini bank application</p>
@@ -24,7 +24,7 @@ You can test the project at the link below. For this it is necessary to use the 
 I improved the layout to be responsive and I also put some error messages to help understanding.
 Obs: To request a loan, there must be at least one deposit equal to or greater than 10% of the requested amount.
 
-[Click here to test !]()
+[Click here to test !](https://bankist-evemon.netlify.app/)
 
 ### 🎨 Interface
 
